@@ -52,6 +52,16 @@
       alt="MySQL"/> 
   </a>
 </p>
+<h3 align="center">Version Control</h3>
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+      alt="git"/>
+  </a>
+  <a href="https://github.com/Lalit3716" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+</p>
 
 <h2 align="center">Integrated Development Environments</h2>
 <p align="center"> 
@@ -63,16 +73,6 @@
   </a>
 </p>
 
-<h3 align="center">Version Control</h3>
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
-      alt="git"/>
-  </a>
-  <a href="https://github.com/Lalit3716" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-</p>
 
 <h2 align="center">Competitive Programming</h2>
 <p align="center"> 
