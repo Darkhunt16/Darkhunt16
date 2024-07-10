@@ -1,7 +1,16 @@
+<p align="center">
+  <img style="width:8rem; height:auto" src="https://www.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_11602236.htm#fromView=search&page=1&position=0&uuid=1efd1d22-e880-47e3-a549-216f4acc5e35"/>
+</p>
 <h1 align = "center"> Hi there <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50">, I am Sandeep Chandra </h1>
 <h3 align = "center"> I am pursuing Bachelor of Technology in Computer Science and Engineering from Institute of Engineering and Technology, Lucknow! </h3>
 
 ---
+<h2 align="center"><u><b>Knowledge Base</b></u></h2>
+ 
+<p align="center">
+  <img style="width:26rem; height:auto" src="https://www.freepik.com/free-vector/programmer-working-flat-style_4911013.htm#fromView=search&page=1&position=39&uuid=1efd1d22-e880-47e3-a549-216f4acc5e35"/>
+</p>
+
 <h2 align="center">Languages</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
