@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width:8rem; height:auto" src="![alt text](image-1.png)"/>
+  <img style="width:8rem; height:auto" src="image-1.png"/>
 </p>
 <h1 align = "center"> Hi there <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50">, I am Sandeep Chandra </h1>
 <h3 align = "center"> I am pursuing Bachelor of Technology in Computer Science and Engineering from Institute of Engineering and Technology, Lucknow! </h3>
@@ -8,7 +8,7 @@
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
  
 <p align="center">
-  <img style="width:26rem; height:auto" src="![alt text](image.png)"/>
+  <img style="width:26rem; height:auto" src="image-1.png"/>
 </p>
 
 <h2 align="center">Languages</h2>
