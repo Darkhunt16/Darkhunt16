@@ -5,11 +5,6 @@
 <h3 align = "center"> I am pursuing Bachelor of Technology in Computer Science and Engineering from Institute of Engineering and Technology, Lucknow! </h3>
 
 ---
-<h2 align="center"><u><b>Knowledge Base</b></u></h2>
- 
-<p align="center">
-  <img style="width:26rem; height:auto" src="image-1.png"/>
-</p>
 
 <h2 align="center">Languages</h2>
 <p align="center">
