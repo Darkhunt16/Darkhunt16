@@ -43,6 +43,6 @@
   </a>
 </p>
 
-[![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkhunt16)](https://github.com/Darkhunt16/github-readme-stats)
+[![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkhunt16&show_icons=true&theme=radical)](https://github.com/Darkhunt16/github-readme-stats)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkhunt16)](https://github.com/Darkhunt16/github-readme-stats)
