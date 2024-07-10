@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align="center">Languages</h2>
+<h3 align="center">Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
